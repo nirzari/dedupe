@@ -1,0 +1,3 @@
+[submodule "estuary"]
+	path = estuary
+	url = https://github.com/redhat-exd-rebuilds/estuary.git
